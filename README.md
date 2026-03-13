@@ -9,7 +9,7 @@ Today, I'm focused on **Data Science**, specializing in **Machine Learning** and
 
 ## 💻 In my projects, I've developed skills in:
 - Exploratory Data Analysis & data visualization  
-- [Predictive modeling (Churn, Segmentation, LTV)]()  
+- [Predictive modeling (Churn, Segmentation, LTV)](https://github.com/Diego-Veiga92/Churn-prediction-)  
 - Process automation with **Excel + VBA**  
 - Machine Learning with **Python**, **Scikit-learn**, **LightGBM**, **XGBoost**  
 - Data extraction & wrangling using **SQL**, **Pandas**, and **Jupyter Notebooks**
