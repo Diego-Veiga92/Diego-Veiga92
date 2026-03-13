@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**Diego-Veiga92/Diego-Veiga92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Diego Veiga!
 
-Here are some ideas to get you started:
+I’ve spent several years working in roles such as **Process Manager**, **Logistics Supervisor**, and currently serve as a **Retail Supervisor** in Ireland. My background is in Petroleum Engineering, but I found my true passion in using data to drive meaningful decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Today, I'm focused on **Data Science**, specializing in **Machine Learning** and **predictive modeling**.
+
+---
+
+## 💻 In my projects, I've developed skills in:
+- Exploratory Data Analysis & data visualization  
+- [Predictive modeling (Churn, Segmentation, LTV)]()  
+- Process automation with **Excel + VBA**  
+- Machine Learning with **Python**, **Scikit-learn**, **LightGBM**, **XGBoost**  
+- Data extraction & wrangling using **SQL**, **Pandas**, and **Jupyter Notebooks**
+
+---
+
+## 🛠️ Tools I work with:
+`Python` | `SQL` | `Excel + VBA` | `Jupyter` | `Power BI` | `Git/GitHub` | `Scikit-learn` | `Keras` | `nltk` |
+
+---
+
+## 📚 Currently exploring:
+- **NLP applied to employee and customer feedback**  
+- **Recommendation systems**   
+
+---
+
+## ✨ Fun fact:
+Before becoming a data scientist, I built complete business control systems using Excel + VBA for sales, logistics, and inventory – all without writing a single line of Python!
+
+---
+
+## 📬 Reach me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/diego-veiga-rocha/)  
+📧 peleteiro62@gmail.com  
+📱 WhatsApp: +353 83 449 2850
